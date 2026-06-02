@@ -121,25 +121,7 @@ Built **VoiceAssist Pro** — an intelligent voice assistant with multilingual s
 | GenAI Job Simulation | Boston Consulting Group | Sep 2025 |
 | Software Engineering Job Simulation | J.P. Morgan Chase & Co. | Jul 2025 |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshi115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi115&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Harshi115&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 ⭐ *If you find my work interesting, consider giving a star!* ⭐
 
