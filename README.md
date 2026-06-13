@@ -199,11 +199,23 @@ With a **Master's in Computer Applications (CGPA 8.02)** from Banasthali Vidyapi
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Harshi115&theme=tokyonight&no-frame=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![MCA Graduate](https://img.shields.io/badge/🎓_MCA_Graduate-CGPA_8.02-a855f7?style=for-the-badge&labelColor=1e1b4b)
+![BCA Graduate](https://img.shields.io/badge/🎓_BCA_Graduate-CGPA_8.41-6366f1?style=for-the-badge&labelColor=1e1b4b)
+
+![Triaksha](https://img.shields.io/badge/💼_Currently_Working-Triaksha_Automations-22c55e?style=for-the-badge&labelColor=052e16)
+![CDAC Intern](https://img.shields.io/badge/🔬_Interned_At-CDAC_Delhi-3b82f6?style=for-the-badge&labelColor=0c1a3a)
+
+![AWS Certified](https://img.shields.io/badge/☁️_AWS-Solutions_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a1a)
+![BCG GenAI](https://img.shields.io/badge/🤖_BCG-GenAI_Simulation-00704A?style=for-the-badge&labelColor=001a0e)
+![JPMorgan](https://img.shields.io/badge/💻_JP_Morgan-SWE_Simulation-0066CC?style=for-the-badge&labelColor=001433)
+
+![Projects](https://img.shields.io/badge/🚀_Projects_Built-5+-ec4899?style=for-the-badge&labelColor=2d0a1e)
+![Languages](https://img.shields.io/badge/🌍_Languages_in_App-5-06b6d4?style=for-the-badge&labelColor=0a1a1f)
+![AI Tools](https://img.shields.io/badge/🤖_AI_Tools_Integrated-7+-8b5cf6?style=for-the-badge&labelColor=1a0d2e)
 
 </div>
 
