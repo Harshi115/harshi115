@@ -1,196 +1,146 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.svg" alt="Harshita Chaturvedi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshita%20Chaturvedi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Enthusiast%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
-
-<a href="https://harshi115.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-e8a33d?style=for-the-badge&logo=vercel&logoColor=04050a" /></a>
-<a href="https://linkedin.com/in/harshita-chaturvedi-5522722b6"><img src="https://img.shields.io/badge/LinkedIn-Connect-5fb3b3?style=for-the-badge&logo=linkedin&logoColor=04050a" /></a>
-<a href="mailto:harshita.chaturvedi2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-c1654a?style=for-the-badge&logo=gmail&logoColor=04050a" /></a>
-<img src="https://komarev.com/ghpvc/?username=Harshi115&style=for-the-badge&color=1b1f2e&label=VIEWS" />
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-harshi115--github--io.vercel.app-6366f1?style=for-the-badge&logoColor=white)](https://harshi115-github-io.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshita-chaturvedi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshi115)
+[![Email](https://img.shields.io/badge/Email-Say_Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshita.chaturvedi2002@gmail.com)
 
 </div>
 
-<br/>
+---
 
-## `whoami`
+## 👩‍💻 About Me
 
-I'm a full-stack developer from Jaipur, India, currently building at **Triaksha Automations**. I like shipping things that work in production — CMS-powered client sites, AI pipelines that handle Hindi/Hinglish code-switching, enterprise PowerApps workflows, and the occasional voice assistant.
+> *"Intellectually curious and meticulous — translating theory into practical, impactful solutions."*
 
-```yaml
-role:          Junior Software Developer @ Triaksha Automations
-education:     MCA (CGPA 8.02) — Banasthali Vidyapith
-past_intern:   CDAC Delhi — built "Siphra", a multilingual voice assistant
-focus:         Next.js • Strapi • Gemini API • PowerApps/Dataverse
-right_now:     making AI tools that survive "haan bhaiya" entering the chat
-open_to:       full-time & freelance roles
-```
+I'm a **Master of Computer Applications** graduate from Banasthali Vidyapith, Rajasthan, with a strong foundation in **software engineering**, **machine learning**, and **natural language processing**. I love building intelligent systems that solve real-world problems and I'm always chasing the next emerging technology.
 
-<br/>
+- 🎓 **MCA** @ Banasthali Vidyapith — CGPA: **8.02**
+- 💼 **Software Development Intern** @ CDAC Delhi (Jan–May 2025)
+- 🌍 Based in **Rajasthan, India**
+- 🚀 Currently exploring **AI-powered applications** and **cloud architecture**
+- 📬 Reach me at **harshita.chaturvedi2002@gmail.com**
 
-## `tech_stack`
+---
+
+## 🛠️ Tech Stack
+
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🤖 AI & Low-Code Tools
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+
+### 🧰 Tools & IDEs
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+## 💼 Experience
+
+### 🏢 CDAC Delhi — Software Development Intern *(Jan 2025 – May 2025)*
+
+Built **VoiceAssist Pro** — an intelligent voice assistant with multilingual support:
+
+- 🎙️ **95% accuracy** in voice recognition using Google Speech API & CMU Sphinx
+- 🌐 Multilingual translation supporting **10+ languages** with offline functionality
+- 📊 Responsive **React dashboard** with SQLite-based local storage
+- ⚡ Reduced external API dependencies by **70%**, improved response times by **50%**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ [Full-Stack Job Portal](https://github.com/Harshi115) *(Aug – Sep 2025)*
+> A complete hiring platform for job seekers and recruiters
+
+- 📈 Increased user sign-ups by **35%** with intuitive search & apply flow
+- 🧑‍💼 Recruiter dashboard to post jobs & manage applicants — hiring process **45% faster**
+- 🔧 Improved platform stability by **30%** with optimized deployment pipeline
+
+**Stack:** React.js · Node.js · Express.js · MongoDB
+
+---
+
+### 🤖 [QUICK AI](https://github.com/Harshi115) *(Jan – Apr 2024)*
+> All-in-one AI productivity platform
+
+- 🔐 Secure login, subscription plans, and premium access control
+- 🛠️ Integrated tools: article maker, blog title generator, image generator, background/object remover, resume checker
+- 🚀 Increased task speed by **40%** and feature usage by **25%**
+
+**Stack:** Python · Django · React.js · AI APIs
+
+---
+
+### 🎬 [Movie Recommendation System](https://github.com/Harshi115) *(Jan – Apr 2023)*
+> Content-based recommendation engine using cosine similarity
+
+- 🎯 **88% accuracy** on a dataset of **5,000+ movies**
+- ⚡ Flask REST API with **sub-100ms** response time for personalized recommendations
+- 🔧 Preprocessing pipeline reducing model load time by **30%**
+
+**Stack:** Python · Flask · Scikit-learn · Pandas
+
+---
+
+## 📜 Certifications
+
+| 🏅 Certification | 🏢 Issuer | 📅 Date |
+|---|---|---|
+| AWS Solutions Architecture Job Simulation | Amazon Web Services | Sep 2025 |
+| GenAI Job Simulation | Boston Consulting Group | Sep 2025 |
+| Software Engineering Job Simulation | J.P. Morgan Chase & Co. | Jul 2025 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="assets/tech-marquee.svg" alt="tech stack scrolling icons" />
+![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshi115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi115&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harshi115&theme=tokyonight&hide_border=true)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Gemini_API-e8a33d?style=flat-square&logo=googlegemini&logoColor=04050a" />
-<img src="https://img.shields.io/badge/Claude_API-c1654a?style=flat-square&logo=anthropic&logoColor=fff" />
-<img src="https://img.shields.io/badge/Groq_/_Llama_3.3-5fb3b3?style=flat-square&logo=meta&logoColor=04050a" />
-<img src="https://img.shields.io/badge/Payload_CMS-1b1f2e?style=flat-square&logo=payload&logoColor=e8a33d" />
-<img src="https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=fff" />
-<img src="https://img.shields.io/badge/Dataverse-002050?style=flat-square&logo=microsoftazure&logoColor=fff" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+⭐ *If you find my work interesting, consider giving a star!* ⭐
 
 </div>
-
-<br/>
-
-## `work_log`
-
-<table>
-<tr><td width="62%">
-
-**Junior Software Developer** · Triaksha Automations
-<br/><sub>Sep 2025 — Present</sub>
-
-- Shipped a full CMS-powered client site, migrating **Payload CMS → Strapi v5** with a **Next.js 15** frontend, deployed on Vercel + Strapi Cloud
-- Built a Hindi/Hinglish call-transcript sentiment pipeline using **Gemini API** + VADER
-- Contributed to an internal **Risk Matrix** canvas app in PowerApps — data entry screens, color-coded risk visualization, UI design
-- Worked on **Dataverse** integration for submission/review/notification workflows
-- Explored role-based access control & audit logging in enterprise Power Platform apps
-
-</td><td valign="top">
-
-`Next.js` `Strapi v5`<br/>`PostgreSQL` `Gemini API`<br/>`PowerApps` `Dataverse`
-
-</td></tr>
-<tr><td>
-
-**Software Development Intern** · CDAC Delhi
-<br/><sub>Jan — May 2025</sub>
-
-- Engineered **Siphra**, a Python voice assistant for hands-free browser control (YouTube, Google search, weather)
-- Built a MySQL-backed keyword-tag image search system
-- Shipped multilingual translation across English, Hindi, French, Spanish, German
-
-</td><td valign="top">
-
-`Python` `SpeechRecognition`<br/>`pyttsx3` `PHP` `MySQL`
-
-</td></tr>
-</table>
-
-<br/>
-
-## `featured_missions`
-
-<div align="center">
-
-<a href="https://github.com/Harshi115/QUICK-AI-full-stack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=QUICK-AI-full-stack&bg_color=04050a&title_color=e8a33d&icon_color=5fb3b3&text_color=edeae3&border_color=1b1f2e&hide_border=false" />
-</a>
-<a href="https://github.com/Harshi115/VISTA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=VISTA&bg_color=04050a&title_color=e8a33d&icon_color=5fb3b3&text_color=edeae3&border_color=1b1f2e&hide_border=false" />
-</a>
-<br/>
-<a href="https://github.com/Harshi115/movie-recommendation-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=movie-recommendation-system&bg_color=04050a&title_color=e8a33d&icon_color=5fb3b3&text_color=edeae3&border_color=1b1f2e&hide_border=false" />
-</a>
-<a href="https://github.com/Harshi115/photobooth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=photobooth&bg_color=04050a&title_color=e8a33d&icon_color=5fb3b3&text_color=edeae3&border_color=1b1f2e&hide_border=false" />
-</a>
-
-</div>
-
-<details>
-<summary><b>▸ more on QUICK AI, VISTA &amp; Job Portal</b></summary>
-<br/>
-
-**QUICK AI Platform** — AI suite bundling article generation, blog title maker, image generator, background/object remover, and resume checker, with premium access control. `Django` `React` `AI APIs`
-
-**VISTA** — Voice-controlled + keyword-tag image search with 5-language translation and offline capability. `Python` `PHP` `MySQL`
-
-**Full-Stack Job Portal** — Job search platform with resume uploads, an online-apply flow, and a recruiter dashboard for posting jobs and reviewing applicants — increased sign-ups by 35% and sped up hiring by 45%. `React` `Node.js` `MongoDB`
-
-</details>
-
-<br/>
-
-## `certifications`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS_Solutions_Architecture-Amazon_Web_Services-e8a33d?style=flat-square&logo=amazonaws&logoColor=04050a" />
-<img src="https://img.shields.io/badge/GenAI_Job_Simulation-BCG-5fb3b3?style=flat-square&logo=googlegemini&logoColor=04050a" />
-<img src="https://img.shields.io/badge/Software_Engineering-J.P._Morgan-c1654a?style=flat-square&logo=jpmorganchase&logoColor=fff" />
-
-</div>
-
-<br/>
-
-## `stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshi115&show_icons=true&bg_color=04050a&title_color=e8a33d&icon_color=5fb3b3&text_color=edeae3&border_color=1b1f2e&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi115&layout=compact&bg_color=04050a&title_color=e8a33d&text_color=edeae3&border_color=1b1f2e&hide_border=false" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Harshi115&background=04050a&ring=e8a33d&fire=c1654a&currStreakLabel=e8a33d&border=1b1f2e&sideLabels=edeae3&currStreakNum=edeae3&sideNums=edeae3&dates=7d8194" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi115&bg_color=04050a&color=e8a33d&line=5fb3b3&point=c1654a&area=true&hide_border=true" />
-
-</div>
-
-<br/>
-
-## `contribution_snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Harshi115/Harshi115/output/github-contribution-grid-snake-dark.svg" />
-
-<sub>Animated daily via GitHub Actions — set up the <code>platane/snk</code> workflow (steps below) if this looks empty on first push.</sub>
-
-</div>
-
-<br/>
-
-## `trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harshi115&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&title=Pull%20Shark,YOLO,Quickdraw,Commits,Stars,Followers" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-💬 Ask me about **Next.js, Strapi, Gemini API, or Hindi/Hinglish NLP**
-&nbsp;&#8226;&nbsp; ⚡ Currently exploring **voice AI + low-code enterprise tooling**
-&nbsp;&#8226;&nbsp; 🤝 Open to full-time & freelance projects
-
-<br/><br/>
-
-*⭐ found something useful here? a star keeps me motivated to build more ⭐*
-
-</div>
-
-
-
-
-
-
-
