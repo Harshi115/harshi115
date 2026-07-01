@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04050a,100:1b1f2e&height=210&section=header&text=HARSHITA%20CHATURVEDI&fontSize=38&fontColor=e8a33d&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20%26%20Voice%20Systems&descAlignY=56&descSize=18&descColor=5fb3b3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04050a,50:1b1f2e,100:04050a&height=220&section=header&text=HARSHITA%20CHATURVEDI&fontSize=38&fontColor=e8a33d&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20%26%20Voice%20Systems&descAlignY=54&descSize=18&descColor=5fb3b3" />
 
 <a href="https://harshi115.github.io/my-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=E8A33D&center=true&vCenter=true&width=650&lines=Building+AI+that+understands+Hindi%2FHinglish...;Full-Stack+Dev+%40+Triaksha+Automations;Next.js+%E2%80%A2+Strapi+%E2%80%A2+Gemini+API+%E2%80%A2+PostgreSQL;Open+to+full-time+%26+freelance+roles" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=E8A33D&center=true&vCenter=true&width=650&lines=Building+AI+that+understands+Hindi%2FHinglish...;Full-Stack+Dev+%40+Triaksha+Automations;Next.js+%E2%80%A2+Strapi+%E2%80%A2+Gemini+API+%E2%80%A2+PowerApps;MCA+Grad+%E2%80%A2+CDAC+Delhi+Alumna;Open+to+full-time+%26+freelance+roles" />
 </a>
 
 <br/>
@@ -11,6 +11,7 @@
 <a href="https://harshi115.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-e8a33d?style=for-the-badge&logo=vercel&logoColor=04050a" /></a>
 <a href="https://linkedin.com/in/harshita-chaturvedi-5522722b6"><img src="https://img.shields.io/badge/LinkedIn-Connect-5fb3b3?style=for-the-badge&logo=linkedin&logoColor=04050a" /></a>
 <a href="mailto:harshita.chaturvedi2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-c1654a?style=for-the-badge&logo=gmail&logoColor=04050a" /></a>
+<img src="https://komarev.com/ghpvc/?username=Harshi115&style=for-the-badge&color=1b1f2e&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -18,22 +19,40 @@
 
 ## `whoami`
 
-I'm a full-stack developer from Jaipur, India, currently building at **Triaksha Automations**. I like shipping things that work in production — CMS-powered client sites, AI pipelines that handle Hindi/Hinglish code-switching, and the occasional voice assistant.
+I'm a full-stack developer from Jaipur, India, currently building at **Triaksha Automations**. I like shipping things that work in production — CMS-powered client sites, AI pipelines that handle Hindi/Hinglish code-switching, enterprise PowerApps workflows, and the occasional voice assistant.
 
-<details>
-<summary><b>▸ full story</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I hold an **MCA (CGPA 8.02)** from Banasthali Vidyapith and interned at **CDAC Delhi**, where I built Siphra, a multilingual voice assistant. Since joining Triaksha Automations, I've shipped a full CMS-powered site for a client (migrating Payload → Strapi v5, Next.js 15 frontend) and built a Hindi/Hinglish call-sentiment pipeline using the Gemini API and VADER.
-
-What I'm into right now: making AI tools that actually work for code-switched, informal Indian speech — most NLP tooling is built for clean English and falls apart the moment "haan bhaiya" enters the chat.
-
-```text
-📍 Jaipur, Rajasthan          🎓 MCA — CGPA 8.02
-💼 Triaksha Automations       🌐 Open to opportunities
+```yaml
+name: Harshita Chaturvedi
+role: Junior Software Developer
+company: Triaksha Automations
+location: Jaipur, Rajasthan, India
+education: MCA (CGPA 8.02) — Banasthali Vidyapith
+past_intern: CDAC Delhi
+focus:
+  - Full-stack web (Next.js, React, Node.js)
+  - AI/NLP for Hindi-Hinglish speech
+  - CMS-driven client platforms
+  - Low-code enterprise apps (PowerApps)
+currently_open_to: full-time & freelance roles
 ```
 
-</details>
+</td>
+<td width="50%" valign="top">
+
+**Fun facts**
+- 🗣️ Working on AI tools that actually survive "haan bhaiya" entering the chat
+- 🏗️ Migrated a live client site from Payload CMS → Strapi v5 mid-project
+- 🎙️ Built a voice assistant named *Siphra* that controls YouTube & Google hands-free
+- 🧩 12+ certifications, from AWS to J.P. Morgan job simulations
+- ☕ Debugs `ETIMEDOUT` errors better with chai in hand
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -41,7 +60,7 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,flask,postgres,strapi,figma,git,github,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,flask,postgres,mongodb,mysql,strapi,django,figma,git,github,vercel,gcp&theme=dark" />
 
 <br/><br/>
 
@@ -49,6 +68,9 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 <img src="https://img.shields.io/badge/Claude_API-c1654a?style=flat-square&logo=anthropic&logoColor=fff" />
 <img src="https://img.shields.io/badge/Groq_/_Llama_3.3-5fb3b3?style=flat-square&logo=meta&logoColor=04050a" />
 <img src="https://img.shields.io/badge/Payload_CMS-1b1f2e?style=flat-square&logo=payload&logoColor=e8a33d" />
+<img src="https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=fff" />
+<img src="https://img.shields.io/badge/Dataverse-002050?style=flat-square&logo=microsoftazure&logoColor=fff" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=fff" />
 
 </div>
 
@@ -57,18 +79,20 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 ## `work_log`
 
 <table>
-<tr><td width="60%">
+<tr><td width="62%">
 
 **Junior Software Developer** · Triaksha Automations
 <br/><sub>Sep 2025 — Present</sub>
 
-- Shipped a full CMS-powered site for a client, migrating Payload CMS → Strapi v5 with a Next.js 15 frontend
-- Built a Hindi/Hinglish call-transcript sentiment pipeline (Gemini API + VADER)
-- Built PowerApps + Dataverse workflows with role-based access and audit logging
+- Shipped a full CMS-powered site for a client, migrating **Payload CMS → Strapi v5** with a **Next.js 15** frontend, deployed on Vercel + Strapi Cloud
+- Built a Hindi/Hinglish call-transcript sentiment pipeline using **Gemini API** + VADER
+- Contributed to an internal **Risk Matrix** canvas app in PowerApps — data entry screens, color-coded risk visualization, UI design
+- Worked on **Dataverse** integration and approval workflows for submission/review/notification systems
+- Explored role-based access control & audit logging in real-world enterprise Power Platform apps
 
 </td><td valign="top">
 
-`Next.js` `Strapi v5` `PostgreSQL`<br/>`Gemini API` `PowerApps`
+`Next.js` `Strapi v5`<br/>`PostgreSQL` `Gemini API`<br/>`PowerApps` `Dataverse`
 
 </td></tr>
 <tr><td>
@@ -76,12 +100,13 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 **Software Development Intern** · CDAC Delhi
 <br/><sub>Jan — May 2025</sub>
 
-- Engineered **Siphra**, a Python voice assistant for hands-free control
-- Built multilingual translation across English, Hindi, French, Spanish, German
+- Engineered **Siphra**, a Python voice assistant for hands-free browser control (YouTube, Google search, weather)
+- Built a MySQL-backed keyword-tag image search system
+- Shipped multilingual translation across English, Hindi, French, Spanish, German
 
 </td><td valign="top">
 
-`Python` `SpeechRecognition`<br/>`PHP` `MySQL`
+`Python` `SpeechRecognition`<br/>`pyttsx3` `PHP` `MySQL`
 
 </td></tr>
 </table>
@@ -109,14 +134,28 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 </div>
 
 <details>
-<summary><b>▸ more on QUICK AI &amp; VISTA</b></summary>
+<summary><b>▸ more on QUICK AI, VISTA &amp; Job Portal</b></summary>
 <br/>
 
-**QUICK AI Platform** — AI suite bundling article generation, image tools, and resume tooling. `Django` `React` `AI APIs`
+**QUICK AI Platform** — AI suite bundling article generation, blog title maker, image generator, background/object remover, and resume checker, with premium access control. `Django` `React` `AI APIs`
 
 **VISTA** — Voice-controlled + keyword-tag image search with 5-language translation and offline capability. `Python` `PHP` `MySQL`
 
+**Full-Stack Job Portal** — Job search platform with resume uploads, an online-apply flow, and a recruiter dashboard for posting jobs and reviewing applicants — increased sign-ups by 35% and sped up hiring by 45%. `React` `Node.js` `MongoDB`
+
 </details>
+
+<br/>
+
+## `certifications`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS_Solutions_Architecture-Amazon_Web_Services-e8a33d?style=flat-square&logo=amazonaws&logoColor=04050a" />
+<img src="https://img.shields.io/badge/GenAI_Job_Simulation-BCG-5fb3b3?style=flat-square&logo=googlegemini&logoColor=04050a" />
+<img src="https://img.shields.io/badge/Software_Engineering-J.P._Morgan-c1654a?style=flat-square&logo=jpmorganchase&logoColor=fff" />
+
+</div>
 
 <br/>
 
@@ -131,6 +170,10 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 
 <img src="https://streak-stats.demolab.com/?user=Harshi115&background=04050a&ring=e8a33d&fire=c1654a&currStreakLabel=e8a33d&border=1b1f2e&sideLabels=edeae3&currStreakNum=edeae3&sideNums=edeae3&dates=7d8194" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi115&bg_color=04050a&color=e8a33d&line=5fb3b3&point=c1654a&area=true&hide_border=true" />
+
 </div>
 
 <br/>
@@ -139,9 +182,9 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Harshi115/Harshi115/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Harshi115/Harshi115/output/github-contribution-grid-snake-dark.svg" />
 
-<sub>Animated daily via GitHub Actions — see setup note below if this box looks empty on first push.</sub>
+<sub>Animated daily via GitHub Actions — set up the <code>platane/snk</code> workflow in your profile repo if this box looks empty on first push.</sub>
 
 </div>
 
@@ -157,10 +200,18 @@ What I'm into right now: making AI tools that actually work for code-switched, i
 
 <br/>
 
+## `lets_build_something`
+
 <div align="center">
+
+💬 Ask me about **Next.js, Strapi, Gemini API, or Hindi/Hinglish NLP**
+⚡ Currently exploring **voice AI + low-code enterprise tooling**
+🤝 Open to full-time roles and freelance/collab projects
+
+<br/><br/>
 
 *⭐ found something useful here? a star keeps me motivated to build more ⭐*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04050a,100:1b1f2e&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04050a,50:1b1f2e,100:04050a&height=120&section=footer" />
 
 </div>
