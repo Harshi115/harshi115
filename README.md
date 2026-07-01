@@ -1,17 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04050a,50:1b1f2e,100:04050a&height=220&section=header&text=HARSHITA%20CHATURVEDI&fontSize=38&fontColor=e8a33d&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%9C%A6%20AI%20%26%20Voice%20Systems&descAlignY=54&descSize=18&descColor=5fb3b3" />
-
-<a href="https://harshi115.github.io/my-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=E8A33D&center=true&vCenter=true&width=650&lines=Building+AI+that+understands+Hindi%2FHinglish...;Full-Stack+Dev+%40+Triaksha+Automations;Next.js+%E2%80%A2+Strapi+%E2%80%A2+Gemini+API+%E2%80%A2+PowerApps;MCA+Grad+%E2%80%A2+CDAC+Delhi+Alumna;Open+to+full-time+%26+freelance+roles" />
-</a>
+<img width="100%" src="assets/banner.svg" alt="Harshita Chaturvedi" />
 
 <br/>
 
 <a href="https://harshi115.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-e8a33d?style=for-the-badge&logo=vercel&logoColor=04050a" /></a>
 <a href="https://linkedin.com/in/harshita-chaturvedi-5522722b6"><img src="https://img.shields.io/badge/LinkedIn-Connect-5fb3b3?style=for-the-badge&logo=linkedin&logoColor=04050a" /></a>
 <a href="mailto:harshita.chaturvedi2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-c1654a?style=for-the-badge&logo=gmail&logoColor=04050a" /></a>
-<img src="https://komarev.com/ghpvc/?username=Harshi115&style=for-the-badge&color=1b1f2e&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Harshi115&style=for-the-badge&color=1b1f2e&label=VIEWS" />
 
 </div>
 
@@ -21,38 +17,14 @@
 
 I'm a full-stack developer from Jaipur, India, currently building at **Triaksha Automations**. I like shipping things that work in production — CMS-powered client sites, AI pipelines that handle Hindi/Hinglish code-switching, enterprise PowerApps workflows, and the occasional voice assistant.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```yaml
-name: Harshita Chaturvedi
-role: Junior Software Developer
-company: Triaksha Automations
-location: Jaipur, Rajasthan, India
-education: MCA (CGPA 8.02) — Banasthali Vidyapith
-past_intern: CDAC Delhi
-focus:
-  - Full-stack web (Next.js, React, Node.js)
-  - AI/NLP for Hindi-Hinglish speech
-  - CMS-driven client platforms
-  - Low-code enterprise apps (PowerApps)
-currently_open_to: full-time & freelance roles
+role:          Junior Software Developer @ Triaksha Automations
+education:     MCA (CGPA 8.02) — Banasthali Vidyapith
+past_intern:   CDAC Delhi — built "Siphra", a multilingual voice assistant
+focus:         Next.js • Strapi • Gemini API • PowerApps/Dataverse
+right_now:     making AI tools that survive "haan bhaiya" entering the chat
+open_to:       full-time & freelance roles
 ```
-
-</td>
-<td width="50%" valign="top">
-
-**Fun facts**
-- 🗣️ Working on AI tools that actually survive "haan bhaiya" entering the chat
-- 🏗️ Migrated a live client site from Payload CMS → Strapi v5 mid-project
-- 🎙️ Built a voice assistant named *Siphra* that controls YouTube & Google hands-free
-- 🧩 12+ certifications, from AWS to J.P. Morgan job simulations
-- ☕ Debugs `ETIMEDOUT` errors better with chai in hand
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -60,9 +32,13 @@ currently_open_to: full-time & freelance roles
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,python,flask,postgres,mongodb,mysql,strapi,django,figma,git,github,vercel,gcp&theme=dark" />
+<img width="100%" src="assets/tech-marquee.svg" alt="tech stack scrolling icons" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Gemini_API-e8a33d?style=flat-square&logo=googlegemini&logoColor=04050a" />
 <img src="https://img.shields.io/badge/Claude_API-c1654a?style=flat-square&logo=anthropic&logoColor=fff" />
@@ -84,11 +60,11 @@ currently_open_to: full-time & freelance roles
 **Junior Software Developer** · Triaksha Automations
 <br/><sub>Sep 2025 — Present</sub>
 
-- Shipped a full CMS-powered site for a client, migrating **Payload CMS → Strapi v5** with a **Next.js 15** frontend, deployed on Vercel + Strapi Cloud
+- Shipped a full CMS-powered client site, migrating **Payload CMS → Strapi v5** with a **Next.js 15** frontend, deployed on Vercel + Strapi Cloud
 - Built a Hindi/Hinglish call-transcript sentiment pipeline using **Gemini API** + VADER
 - Contributed to an internal **Risk Matrix** canvas app in PowerApps — data entry screens, color-coded risk visualization, UI design
-- Worked on **Dataverse** integration and approval workflows for submission/review/notification systems
-- Explored role-based access control & audit logging in real-world enterprise Power Platform apps
+- Worked on **Dataverse** integration for submission/review/notification workflows
+- Explored role-based access control & audit logging in enterprise Power Platform apps
 
 </td><td valign="top">
 
@@ -184,7 +160,7 @@ currently_open_to: full-time & freelance roles
 
 <img src="https://raw.githubusercontent.com/Harshi115/Harshi115/output/github-contribution-grid-snake-dark.svg" />
 
-<sub>Animated daily via GitHub Actions — set up the <code>platane/snk</code> workflow in your profile repo if this box looks empty on first push.</sub>
+<sub>Animated daily via GitHub Actions — set up the <code>platane/snk</code> workflow (steps below) if this looks empty on first push.</sub>
 
 </div>
 
@@ -200,18 +176,21 @@ currently_open_to: full-time & freelance roles
 
 <br/>
 
-## `lets_build_something`
-
 <div align="center">
 
 💬 Ask me about **Next.js, Strapi, Gemini API, or Hindi/Hinglish NLP**
-⚡ Currently exploring **voice AI + low-code enterprise tooling**
-🤝 Open to full-time roles and freelance/collab projects
+&nbsp;&#8226;&nbsp; ⚡ Currently exploring **voice AI + low-code enterprise tooling**
+&nbsp;&#8226;&nbsp; 🤝 Open to full-time & freelance projects
 
 <br/><br/>
 
 *⭐ found something useful here? a star keeps me motivated to build more ⭐*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04050a,50:1b1f2e,100:04050a&height=120&section=footer" />
-
 </div>
+
+
+
+
+
+
+
