@@ -48,6 +48,18 @@ I turn ideas into working products: a multilingual voice assistant, an AI produc
 
 <br clear="right"/>
 
+<details>
+<summary><b>⚡ Click to reveal fun facts about me</b></summary>
+<br/>
+
+- 🎙️ Built a voice assistant that speaks **5 languages** before most apps could speak one
+- 🧩 Can debug a Strapi v5 API response format issue faster than I can decide what to eat for lunch
+- 🎨 Believe every good app needs a great design system — gold, cream, dark, or otherwise
+- 🚀 Once migrated an entire CMS over a weekend and still showed up to work Monday
+- ☕ Currently learning to balance `PowerApps` canvas screens with actual work-life canvas
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
 ## 🛠 Tech Stack
@@ -57,6 +69,22 @@ I turn ideas into working products: a multilingual voice assistant, an AI produc
 <img src="https://skillicons.dev/icons?i=python,js,java,php,mysql,react,html,css,nodejs,express,django,mongodb,gcp,aws,git,github,vscode,pycharm,selenium&perline=10&theme=dark" />
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>🔍 Click to see the full breakdown by category</b></summary>
+<br/>
+
+**Languages:** Python · JavaScript · Java · SQL · PHP
+**Frontend:** React · HTML5 · CSS3 · Power Apps
+**Backend:** Node.js · Express.js · Django · Power Automate
+**Databases:** MongoDB · MySQL · Dataverse · SharePoint
+**Cloud & DevOps:** Google Cloud · AWS · Git · GitHub Actions
+**AI/ML:** Gemini API · Groq/Llama 3.3 · VADER Sentiment · Scikit-learn
+**Tools:** VS Code · PyCharm · Selenium
+
+</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
@@ -151,6 +179,23 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 **Also built:** [Full-Stack Job Portal](https://github.com/Harshi115) — complete hiring platform with `React` `Node` `MongoDB`
 
+<br/>
+
+<details>
+<summary><b>📂 Click to see extended project details</b></summary>
+<br/>
+
+**QUICK AI Platform** — an all-in-one AI productivity suite covering article generation, image tools, resume building, and background removal, built on Django + React with multiple AI API integrations.
+
+**VISTA** — combines voice search, image search by keyword-tag, and 5-language translation, with an offline-capable MySQL backend for reliability without constant connectivity.
+
+**Movie Recommender** — content-based recommendation engine using cosine similarity on movie metadata, achieving strong accuracy on genre/cast-based matching.
+
+**Full-Stack Job Portal** — end-to-end hiring platform with search, apply, and recruiter-side management, built with the MERN stack.
+
+</details>
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
 ## 📜 Certifications
@@ -208,6 +253,18 @@ A little snake that eats my GitHub contribution squares — genuinely animated, 
 </div>
 
 <br/>
+
+<div align="center">
+
+<details>
+<summary><b>💭 Click to see what I'm looking for</b></summary>
+<br/>
+
+I'm looking for roles where I can grow as a full-stack or AI-focused engineer — ideally somewhere that values clean architecture, thoughtful UX, and shipping things that actually get used. Open to full-time opportunities and interesting freelance/contract work.
+
+</details>
+
+</div>
 
 <div align="center">
 
