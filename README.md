@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Harshita Chaturvedi"/>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:a855f7,60:ec4899,100:06b6d4&height=250&section=header&text=Harshita%20Chaturvedi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Power%20Platform%20Engineer&descSize=16&descAlignY=58&descColor=ffffff" width="100%"/>
 
 <p>
 <a href="https://harshi115-github-io.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -18,18 +16,9 @@
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
-
-<br/>
-
 ## 🌸 About Me
 
-<table>
-<tr>
-<td width="45%" valign="middle">
-<img src="./assets/about_illustration.svg" width="100%"/>
-</td>
-<td width="55%" valign="middle">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" style="border-radius:12px"/>
 
 Full-Stack Developer & AI enthusiast from Rajasthan, India — currently **Junior Software Developer at Triaksha Automations**.
 
@@ -45,11 +34,9 @@ location:  Rajasthan, India
 status:    Open to opportunities
 ```
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+---
 
 ## 🛠️ Tech Stack
 
@@ -66,7 +53,7 @@ status:    Open to opportunities
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+---
 
 ## 💼 Work Experience
 
@@ -103,7 +90,7 @@ status:    Open to opportunities
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+---
 
 ## 🚀 Featured Projects
 
@@ -119,7 +106,7 @@ status:    Open to opportunities
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+---
 
 ## 📜 Certifications
 
@@ -133,7 +120,7 @@ status:    Open to opportunities
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+---
 
 ## 🏆 Achievements
 
@@ -150,7 +137,7 @@ status:    Open to opportunities
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
@@ -164,8 +151,7 @@ status:    Open to opportunities
 
 *⭐ Found my work interesting? A star motivates me to build more ⭐*
 
-<br/><br/>
-
-<img src="./assets/footer.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:a855f7,60:ec4899,100:6366f1&height=120&section=footer" width="100%"/>
 
 </div>
+
