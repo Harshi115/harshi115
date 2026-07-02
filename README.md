@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:a855f7,60:ec4899,100:06b6d4&height=250&section=header&text=Harshita%20Chaturvedi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Power%20Platform%20Engineer&descSize=16&descAlignY=58&descColor=ffffff" width="100%"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgdmlld0JveD0iMCAwIDEyMDAgMzAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZ0dyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNjM2NmYxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMzUlIiBzdG9wLWNvbG9yPSIjYTg1NWY3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNzAlIiBzdG9wLWNvbG9yPSIjZWM0ODk5Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA2YjZkNCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0id2F2ZUdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjEwIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjA0Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJnbG93MSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNTAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjE4Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KCiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2JnR3JhZCkiLz4KCiAgPGNpcmNsZSBjeD0iMTA0MCIgY3k9IjcwIiByPSIxNDAiIGZpbGw9InVybCgjZ2xvdzEpIi8+CiAgPGNpcmNsZSBjeD0iMTMwIiBjeT0iMjUwIiByPSIxMjAiIGZpbGw9InVybCgjZ2xvdzEpIi8+CgogIDxwYXRoIGQ9Ik0wLDIyMCBDMjAwLDE4MCAzNDAsMjYwIDU2MCwyMjAgQzc4MCwxODAgOTAwLDI0MCAxMjAwLDIwMCBMMTIwMCwzMDAgTDAsMzAwIFoiIGZpbGw9InVybCgjd2F2ZUdyYWQpIi8+CiAgPHBhdGggZD0iTTAsMjUwIEMyMjAsMjEwIDM4MCwyODAgNjAwLDI1MCBDODIwLDIyMCA5NjAsMjcwIDEyMDAsMjQwIEwxMjAwLDMwMCBMMCwzMDAgWiIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIwLjA2Ii8+CgogIDxnIGZvbnQtZmFtaWx5PSInU2Vnb2UgVUknLCAnSGVsdmV0aWNhIE5ldWUnLCBBcmlhbCwgc2Fucy1zZXJpZiIgZmlsbD0iI2ZmZmZmZiI+CiAgICA8dGV4dCB4PSI2MDAiIHk9IjEyOCIgZm9udC1zaXplPSI1OCIgZm9udC13ZWlnaHQ9IjcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgbGV0dGVyLXNwYWNpbmc9IjEiPkhhcnNoaXRhIENoYXR1cnZlZGk8L3RleHQ+CiAgICA8dGV4dCB4PSI2MDAiIHk9IjE3MiIgZm9udC1zaXplPSIyMiIgZm9udC13ZWlnaHQ9IjQwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbC1vcGFjaXR5PSIwLjkyIj5GdWxsLVN0YWNrIERldmVsb3BlciAmIzE4MzsgQUkgQnVpbGRlciAmIzE4MzsgUG93ZXIgUGxhdGZvcm0gRW5naW5lZXI8L3RleHQ+CiAgPC9nPgoKICA8ZyBmb250LWZhbWlseT0iJ0NvdXJpZXIgTmV3JywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE1IiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuODUiPgogICAgPHRleHQgeD0iNjAwIiB5PSIyMTIiIHRleHQtYW5jaG9yPSJtaWRkbGUiPiZsdDsgTUNBIEdyYWR1YXRlICYjMTgzOyBDR1BBIDguMDIgJiMxODM7IE9wZW4gdG8gb3Bwb3J0dW5pdGllcyAvJmd0OzwvdGV4dD4KICA8L2c+CgogIDxnIHN0cm9rZT0iI2ZmZmZmZiIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiIHN0cm9rZS13aWR0aD0iMS41Ij4KICAgIDxjaXJjbGUgY3g9IjkwIiBjeT0iNjAiIHI9IjQiIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC41IiBzdHJva2U9Im5vbmUiLz4KICAgIDxjaXJjbGUgY3g9IjE1MCIgY3k9IjQ1IiByPSIzIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuNCIgc3Ryb2tlPSJub25lIi8+CiAgICA8Y2lyY2xlIGN4PSIxMTIwIiBjeT0iMjMwIiByPSI0IiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuNSIgc3Ryb2tlPSJub25lIi8+CiAgICA8Y2lyY2xlIGN4PSIxMDYwIiBjeT0iMjU1IiByPSIzIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuNCIgc3Ryb2tlPSJub25lIi8+CiAgICA8cGF0aCBkPSJNNjAsOTAgTDYwLDEyMCBMMTAwLDEyMCIgZmlsbD0ibm9uZSIvPgogICAgPHBhdGggZD0iTTExNDAsMTgwIEwxMTQwLDE1MCBMMTEwMCwxNTAiIGZpbGw9Im5vbmUiLz4KICA8L2c+Cjwvc3ZnPgo=" width="100%" alt="Harshita Chaturvedi"/>
+
+<br/><br/>
 
 <p>
 <a href="https://harshi115-github-io.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -9,7 +11,8 @@
 <a href="https://github.com/Harshi115"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Harshi115&label=Profile+Views&color=a855f7&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Harshi115?label=Followers&style=for-the-badge&color=a855f7&labelColor=1e1b4b"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Harshi115&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=ec4899&labelColor=2d0a1e"/>
 
 </div>
 
@@ -41,37 +44,14 @@ status:    Open to opportunities
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,java,mysql,php" />
+<img src="https://skillicons.dev/icons?i=python,js,java,php,mysql,react,html,css,nodejs,express,django,mongodb,gcp,aws,git,github,vscode,pycharm,selenium&perline=10" />
 
 <br/><br/>
 
-**Frontend & Low-Code**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white" height="32"/>
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" height="32"/>
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" height="32"/>
-
-<br/><br/>
-
-**Cloud & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=gcp,aws,git,github,vscode,pycharm,selenium" />
+<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
 
 </div>
 
@@ -128,15 +108,6 @@ status:    Open to opportunities
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Harshi115/QUICK-AI-full-stack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=QUICK-AI-full-stack&theme=tokyonight&hide_border=true&border_radius=12" width="47%"/></a>
-<a href="https://github.com/Harshi115/VISTA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=VISTA&theme=tokyonight&hide_border=true&border_radius=12" width="47%"/></a>
-
-</div>
-
 ---
 
 ## 📜 Certifications
@@ -148,25 +119,6 @@ status:    Open to opportunities
 | ☁️ | AWS Solutions Architecture Job Simulation | Amazon Web Services | Sep 2025 |
 | 🤖 | GenAI Job Simulation | Boston Consulting Group | Sep 2025 |
 | 💻 | Software Engineering Job Simulation | J.P. Morgan Chase & Co. | Jul 2025 |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshi115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi115&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=Harshi115&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=06b6d4"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi115&bg_color=0d1117&color=a855f7&line=ec4899&point=06b6d4&area=true&hide_border=true&border_radius=12" width="90%"/>
 
 </div>
 
@@ -201,7 +153,8 @@ status:    Open to opportunities
 
 *⭐ Found my work interesting? A star motivates me to build more ⭐*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:a855f7,60:ec4899,100:6366f1&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgdmlld0JveD0iMCAwIDEyMDAgMTMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJmb290R3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDZiNmQ0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMzUlIiBzdG9wLWNvbG9yPSIjYTg1NWY3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNzAlIiBzdG9wLWNvbG9yPSIjZWM0ODk5Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMTMwIiBmaWxsPSJ1cmwoI2Zvb3RHcmFkKSIvPgogIDxwYXRoIGQ9Ik0wLDQwIEMyMjAsMTAgMzgwLDYwIDYwMCw0MCBDODIwLDIwIDk2MCw1NSAxMjAwLDMwIEwxMjAwLDAgTDAsMCBaIiBmaWxsPSIjZmZmZmZmIiBmaWxsLW9wYWNpdHk9IjAuMDgiLz4KICA8cGF0aCBkPSJNMCw5MCBDMjIwLDYwIDM4MCwxMTAgNjAwLDkwIEM4MjAsNzAgOTYwLDEwNSAxMjAwLDgwIEwxMjAwLDEzMCBMMCwxMzAgWiIgZmlsbD0iI2ZmZmZmZiIgZmlsbC1vcGFjaXR5PSIwLjA2Ii8+CiAgPGcgZm9udC1mYW1pbHk9IidTZWdvZSBVSScsIEFyaWFsLCBzYW5zLXNlcmlmIiBmaWxsPSIjZmZmZmZmIj4KICAgIDx0ZXh0IHg9IjYwMCIgeT0iNzIiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSI2MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGwtb3BhY2l0eT0iMC45NSI+VGhhbmtzIGZvciBzdG9wcGluZyBieSAmIzgyMTI7IGxldCYjODIxNztzIGJ1aWxkIHNvbWV0aGluZyBncmVhdDwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=" width="100%"/>
 
 </div>
-
