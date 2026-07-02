@@ -1,0 +1,72 @@
+<svg width="100%" viewBox="0 0 480 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#312e81"/>
+      <stop offset="100%" stop-color="#581c87"/>
+    </linearGradient>
+    <linearGradient id="baseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <radialGradient id="softGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="240" cy="160" r="170" fill="url(#softGlow)"/>
+
+  <!-- laptop screen -->
+  <rect x="110" y="55" width="260" height="175" rx="14" fill="url(#screenGrad)" stroke="#c4b5fd" stroke-width="2"/>
+  <rect x="126" y="71" width="228" height="143" rx="6" fill="#1e1b3a"/>
+
+  <!-- code lines, animated fade-in sequence -->
+  <g font-family="'Courier New', monospace" font-size="12" fill="#a855f7">
+    <text x="140" y="92" fill="#f472b6">const</text>
+    <text x="178" y="92" fill="#67e8f9">dev</text>
+    <text x="205" y="92" fill="#e2e8f0">= {</text>
+    <text x="150" y="112" fill="#86efac">name:</text><text x="196" y="112" fill="#fde68a">'Harshita'</text>
+    <text x="150" y="132" fill="#86efac">stack:</text><text x="200" y="132" fill="#fde68a">'Full',</text>
+    <text x="150" y="152" fill="#86efac">loves:</text><text x="200" y="152" fill="#fde68a">'AI'</text>
+    <text x="140" y="172" fill="#e2e8f0">};</text>
+    <rect x="140" y="180" width="10" height="14" fill="#67e8f9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- laptop base -->
+  <path d="M90,230 L390,230 L410,255 Q412,262 404,262 L76,262 Q68,262 70,255 Z" fill="url(#baseGrad)"/>
+  <rect x="215" y="230" width="50" height="6" rx="2" fill="#4c1d95"/>
+
+  <!-- orbiting tech bubbles -->
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0 240 145;360 240 145" dur="14s" repeatCount="indefinite"/>
+      <circle cx="240" cy="15" r="20" fill="#0f6e56" stroke="#5dcaa5" stroke-width="1.5"/>
+      <text x="240" y="20" text-anchor="middle" font-family="Arial" font-size="13" fill="#ffffff" font-weight="700">Py</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="120 240 145;480 240 145" dur="14s" repeatCount="indefinite"/>
+      <circle cx="240" cy="15" r="20" fill="#185fa5" stroke="#85b7eb" stroke-width="1.5"/>
+      <text x="240" y="20" text-anchor="middle" font-family="Arial" font-size="12" fill="#ffffff" font-weight="700">JS</text>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="240 240 145;600 240 145" dur="14s" repeatCount="indefinite"/>
+      <circle cx="240" cy="15" r="20" fill="#993c1d" stroke="#f0997b" stroke-width="1.5"/>
+      <text x="240" y="20" text-anchor="middle" font-family="Arial" font-size="11" fill="#ffffff" font-weight="700">AI</text>
+    </g>
+  </g>
+
+  <!-- sparkles -->
+  <g fill="#fde68a">
+    <circle cx="70" cy="90" r="3">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="130" r="2.5">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="200" r="2">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

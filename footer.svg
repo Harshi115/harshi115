@@ -1,0 +1,32 @@
+<svg width="100%" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="35%" stop-color="#a855f7"/>
+      <stop offset="70%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <radialGradient id="footGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="140" fill="url(#footGrad)"/>
+  <circle cx="600" cy="60" r="90" fill="url(#footGlow)">
+    <animate attributeName="r" values="80;110;80" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M0,40 C220,10 380,60 600,40 C820,20 960,55 1200,30 L1200,0 L0,0 Z" fill="#ffffff" fill-opacity="0.08"/>
+  <path d="M0,95 C220,65 380,115 600,95 C820,75 960,110 1200,85 L1200,140 L0,140 Z" fill="#ffffff" fill-opacity="0.06"/>
+  <g fill="#ffffff" fill-opacity="0.6">
+    <circle cx="150" cy="30" r="2.5">
+      <animate attributeName="fill-opacity" values="0.6;0.1;0.6" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="105" r="2.5">
+      <animate attributeName="fill-opacity" values="0.6;0.1;0.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <g font-family="'Segoe UI', Arial, sans-serif" fill="#ffffff">
+    <text x="600" y="66" font-size="21" font-weight="700" text-anchor="middle">Thanks for stopping by</text>
+    <text x="600" y="90" font-size="14" font-weight="400" text-anchor="middle" fill-opacity="0.9">let&#8217;s build something great together</text>
+  </g>
+</svg>
