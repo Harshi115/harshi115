@@ -110,15 +110,40 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Harshi115/QUICK-AI-full-stack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=QUICK-AI-full-stack&theme=dark&hide_border=true&border_radius=12&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e5e5e5" width="47%"/></a>
-<a href="https://github.com/Harshi115/VISTA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=VISTA&theme=dark&hide_border=true&border_radius=12&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e5e5e5" width="47%"/></a>
-<br/>
-<a href="https://github.com/Harshi115/movie-recommendation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=movie-recommendation-system&theme=dark&hide_border=true&border_radius=12&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e5e5e5" width="47%"/></a>
-<a href="https://github.com/Harshi115/photobooth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshi115&repo=photobooth&theme=dark&hide_border=true&border_radius=12&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e5e5e5" width="47%"/></a>
+**🤖 [QUICK AI Platform](https://github.com/Harshi115/QUICK-AI-full-stack)**
+<br/>AI suite: article, image, resume & background tools
+<br/>`Django` `React` `AI APIs`
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**🎙️ [VISTA](https://github.com/Harshi115/VISTA)**
+<br/>Voice + image search with 5-language translation
+<br/>`Python` `PHP` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎬 [Movie Recommender](https://github.com/Harshi115/movie-recommendation-system)**
+<br/>Cosine similarity recommendation engine
+<br/>`Flask` `Scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+**📸 [Photobooth](https://github.com/Harshi115/photobooth)**
+<br/>Fun browser-based photobooth with live filters
+<br/>`HTML` `CSS` `JS`
+
+</td>
+</tr>
+</table>
 
 **Also built:** [Full-Stack Job Portal](https://github.com/Harshi115) — complete hiring platform with `React` `Node` `MongoDB`
 
@@ -142,10 +167,10 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshi115&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&bg_color=0d0d0d&title_color=c084fc&icon_color=a855f7&text_color=e5e5e5"/>
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi115&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=0d0d0d&title_color=c084fc&text_color=e5e5e5"/>
+<img src="https://img.shields.io/github/stars/Harshi115/QUICK-AI-full-stack?label=QUICK%20AI%20Stars&style=for-the-badge&color=000000&labelColor=6d28d9"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Harshi115&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=000000&labelColor=6d28d9"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi115&bg_color=0d0d0d&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true&border_radius=12" width="90%"/>
 
