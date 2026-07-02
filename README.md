@@ -34,13 +34,13 @@ I turn ideas into working products: a multilingual voice assistant, an AI produc
 
 **MCA (CGPA 8.02)** from Banasthali Vidyapith — built across the stack, from pixel-perfect frontends to cloud-deployed backends.
 
-```yaml
-role:      Junior Software Developer @ Triaksha Automations
-focus:     Power Platform · Dataverse · Approval Workflows
-education: MCA, Banasthali Vidyapith — CGPA 8.02
-location:  Rajasthan, India
-status:    Open to opportunities
-```
+<table>
+<tr><td>💼&nbsp;<b>Role</b></td><td>Junior Software Developer @ Triaksha Automations</td></tr>
+<tr><td>🎯&nbsp;<b>Focus</b></td><td>Power Platform · Dataverse · Approval Workflows</td></tr>
+<tr><td>🎓&nbsp;<b>Education</b></td><td>MCA, Banasthali Vidyapith — CGPA 8.02</td></tr>
+<tr><td>📍&nbsp;<b>Location</b></td><td>Rajasthan, India</td></tr>
+<tr><td>🟢&nbsp;<b>Status</b></td><td>Open to opportunities</td></tr>
+</table>
 
 <br clear="right"/>
 
@@ -163,21 +163,6 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/Harshi115/QUICK-AI-full-stack?label=QUICK%20AI%20Stars&style=for-the-badge&color=000000&labelColor=6d28d9"/>&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Harshi115&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=000000&labelColor=6d28d9"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi115&bg_color=0d0d0d&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true&border_radius=12" width="90%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
-
 ## 💬 Dev Quote
 
 <div align="center">
@@ -217,3 +202,4 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6d28d9,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
+
