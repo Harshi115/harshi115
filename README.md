@@ -232,19 +232,56 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 ## 🏆 Achievements
 
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/MCA_Graduate-CGPA_8.02-000000?style=for-the-badge&labelColor=6d28d9"/>
-<img src="https://img.shields.io/badge/BCA_Graduate-CGPA_8.41-000000?style=for-the-badge&labelColor=6d28d9"/>
-<img src="https://img.shields.io/badge/AWS-Solutions_Architecture-000000?style=for-the-badge&logo=amazonaws&logoColor=c084fc"/>
-<img src="https://img.shields.io/badge/BCG-GenAI_Simulation-000000?style=for-the-badge&labelColor=6d28d9"/>
-<img src="https://img.shields.io/badge/JP_Morgan-SWE_Simulation-000000?style=for-the-badge&labelColor=6d28d9"/>
+🎓
+<br/>
+**MCA Graduate**
+<br/>
+<sub>CGPA 8.02</sub>
 
-<br/><br/>
+</td>
+<td align="center" width="20%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harshi115&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+🎓
+<br/>
+**BCA Graduate**
+<br/>
+<sub>CGPA 8.41</sub>
 
-</div>
+</td>
+<td align="center" width="20%">
+
+☁️
+<br/>
+**AWS**
+<br/>
+<sub>Solutions Architecture</sub>
+
+</td>
+<td align="center" width="20%">
+
+🤖
+<br/>
+**BCG**
+<br/>
+<sub>GenAI Simulation</sub>
+
+</td>
+<td align="center" width="20%">
+
+💻
+<br/>
+**J.P. Morgan**
+<br/>
+<sub>SWE Simulation</sub>
+
+</td>
+</tr>
+</table>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
