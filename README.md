@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6d28d9,100:c084fc&height=260&section=header&text=Harshita%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Power%20Platform%20Engineer&descSize=16&descAlignY=58&descColor=e9d5ff" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+I'm+Harshita+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Power+Platform+Engineer+%E2%9A%A1;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG"/>
-</a>
+<h3>Hi there! I'm Harshita 👋 &nbsp;·&nbsp; Full-Stack Developer 🚀 &nbsp;·&nbsp; AI &amp; ML Enthusiast 🤖 &nbsp;·&nbsp; Open to Opportunities 🌟</h3>
 
 <br/>
 
@@ -24,9 +22,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=About%20Me&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=👩‍💻&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 👩‍💻 About Me
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc4azQweDBtajdqbTZjODJ1YWUyYnd6aXFtejduMHJ4bWVpcnpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="280" style="border-radius:14px;border:1px solid #6d28d9"/>
 
@@ -64,9 +60,7 @@ I turn ideas into working products: a multilingual voice assistant, an AI produc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Tech%20Stack&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=🛠️&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -92,9 +86,7 @@ I turn ideas into working products: a multilingual voice assistant, an AI produc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Power%20Platform&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=⚡&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## ⚡ Power Platform
 
 <div align="center">
 
@@ -109,9 +101,7 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Work%20Experience&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=💼&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 💼 Work Experience
 
 <table width="100%">
 <tr>
@@ -148,9 +138,7 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Featured%20Projects&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=🚀&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
@@ -208,9 +196,7 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Certifications&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=📜&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 📜 Certifications
 
 <div align="center">
 
@@ -224,9 +210,7 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=GitHub%20History&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=📊&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 📊 GitHub History
 
 <div align="center">
 
@@ -236,9 +220,7 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Dev%20Quote&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=💬&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 💬 Dev Quote
 
 <div align="center">
 
@@ -248,9 +230,7 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Achievements&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=🏆&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 🏆 Achievements
 
 <div align="center">
 
@@ -268,9 +248,7 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=text&text=Contribution%20Snake&color=0:000000,100:6d28d9&fontColor=c084fc&fontSize=34&fontAlignY=65&height=90&animation=twinkling&desc=🐍&descAlignY=40&descSize=30" width="100%"/>
-</div>
+## 🐍 Contribution Snake
 
 <div align="center">
 
