@@ -34,13 +34,17 @@ I turn ideas into working products: a multilingual voice assistant, an AI produc
 
 **MCA (CGPA 8.02)** from Banasthali Vidyapith — built across the stack, from pixel-perfect frontends to cloud-deployed backends.
 
-<table>
-<tr><td>💼&nbsp;<b>Role</b></td><td>Junior Software Developer @ Triaksha Automations</td></tr>
-<tr><td>🎯&nbsp;<b>Focus</b></td><td>Power Platform · Dataverse · Approval Workflows</td></tr>
-<tr><td>🎓&nbsp;<b>Education</b></td><td>MCA, Banasthali Vidyapith — CGPA 8.02</td></tr>
-<tr><td>📍&nbsp;<b>Location</b></td><td>Rajasthan, India</td></tr>
-<tr><td>🟢&nbsp;<b>Status</b></td><td>Open to opportunities</td></tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/💼_Role-Junior_Software_Developer_@_Triaksha-000000?style=for-the-badge&labelColor=6d28d9"/>
+<br/>
+<img src="https://img.shields.io/badge/🎯_Focus-Power_Platform_·_Dataverse_·_Workflows-000000?style=for-the-badge&labelColor=7c3aed"/>
+<br/>
+<img src="https://img.shields.io/badge/🎓_Education-MCA_·_CGPA_8.02-000000?style=for-the-badge&labelColor=6d28d9"/>
+<br/>
+<img src="https://img.shields.io/badge/📍_Location-Rajasthan,_India-000000?style=for-the-badge&labelColor=7c3aed"/>
+<br/>
+<img src="https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-000000?style=for-the-badge&labelColor=16a34a"/>
+</p>
 
 <br clear="right"/>
 
@@ -183,6 +187,24 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 <img src="https://img.shields.io/badge/BCG-GenAI_Simulation-000000?style=for-the-badge&labelColor=6d28d9"/>
 <img src="https://img.shields.io/badge/JP_Morgan-SWE_Simulation-000000?style=for-the-badge&labelColor=6d28d9"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshi115&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:6d28d9&height=2&width=100%25" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+A little snake that eats my GitHub contribution squares — genuinely animated, updates automatically every day.
+
+<img src="https://raw.githubusercontent.com/Harshi115/Harshi115/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>📌 One-time 5-minute setup needed to activate this — instructions below.</sub>
+
 </div>
 
 <br/>
@@ -202,4 +224,3 @@ Building canvas apps with role-based access, Dataverse-backed approval workflows
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6d28d9,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
-
