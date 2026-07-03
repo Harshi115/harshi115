@@ -1,338 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:a855f7,60:ec4899,100:06b6d4&height=250&section=header&text=Harshita%20Chaturvedi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Power%20Platform%20Engineer&descSize=16&descAlignY=58&descColor=ffffff" width="100%"/>
 
-<div align="center">
-
-# ⚡ Tech Universe
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,express,html,css,mongodb,mysql,django,fastapi,git,github,vscode&perline=8"/>
-
-</div>
-
----
-
-# 💜 Microsoft Power Platform
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Dataverse-6A5ACD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SharePoint-038387?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Languages
-
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
-<div align="center">
-
-## 🎨 Frontend
-
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</div>
-
-<div align="center">
-
-## ⚙ Backend
-
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
-
-<div align="center">
-
-## 🗄 Databases
-
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Dataverse-5A67D8?style=flat-square)
-![](https://img.shields.io/badge/SharePoint-03787C?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-
-</div>
-
-<div align="center">
-
-## ☁ Tools
-
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## ✨ Developer Mindset
-
-🚀 Clean Code • 💡 Problem Solver • ⚡ Fast Learner • 🎯 Team Player • 🤝 Collaboration • 🌱 Continuous Learning
-
-</div>
-
----
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 💼 Full Stack Job Portal
-
-> Modern recruitment platform
-
-✨ User Authentication
-
-✨ Resume Upload
-
-✨ Recruiter Dashboard
-
-✨ Job Search & Apply
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="260"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="260"/>
-
-</td>
-
-<td width="50%">
-
-### 🤖 QUICK AI
-
-> AI Productivity Platform
-
-✨ Image Generator
-
-✨ Blog Writer
-
-✨ Resume Checker
-
-✨ Background Remover
-
-✨ Object Remover
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Risk Matrix
-
-> Enterprise Power Platform Solution
-
-✨ PowerApps Canvas App
-
-✨ Dataverse
-
-✨ Power Automate
-
-✨ Dashboard
-
-✨ Risk Visualization
-
-**Technology**
-
-`PowerApps`
-
-`Dataverse`
-
-`Power Automate`
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.tenor.com/L8K62GhkgFIAAAAC/coding.gif" width="250"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 💼 Experience
-
-```text
-🏢 Junior Software Developer
-Triaksha Automations
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-⚡ Microsoft PowerApps
-
-⚡ Dataverse
-
-⚡ Power Automate
-
-⚡ Enterprise Applications
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 🏆 Certifications
-
-⭐ AWS Solutions Architecture
-
-⭐ GenAI Job Simulation
-
-⭐ Software Engineering Job Simulation
-
----
-
-<div align="center">
-
-# 💡 What Drives Me
-
-✨ Build
-
-⚡ Learn
-
-🚀 Innovate
-
-💜 Inspire
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-</div>
----
-
-# 📈 GitHub Contributions
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi115&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🌍 Let's Connect
-
-<div align="center">
-
-<a href="mailto:harshita.chaturvedi2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=Hi+there!+I'm+Harshita+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Power+Platform+Engineer+%E2%9A%A1;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harshita-chaturvedi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+<a href="https://harshi115-github-io.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/harshita-chaturvedi-5522722b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshita.chaturvedi2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Harshi115"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<a href="https://github.com/Harshi115">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Harshi115&label=Profile+Views&color=a855f7&style=for-the-badge"/>
 
-<a href="https://harshi115.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</div>
+
+<br/>
+
+## 🌸 About Me
+
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc4azQweDBtajdqbTZjODJ1YWUyYnd6aXFtejduMHJ4bWVpcnpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260" style="border-radius:12px"/>
+
+Full-Stack Developer & AI enthusiast from Rajasthan, India — currently **Junior Software Developer at Triaksha Automations**.
+
+I turn ideas into working products: a multilingual voice assistant, an AI productivity suite, and enterprise Power Platform apps used by real teams every day.
+
+**MCA (CGPA 8.02)** from Banasthali Vidyapith — built across the stack, from pixel-perfect frontends to cloud-deployed backends.
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,java,php,mysql,react,html,css,nodejs,express,django,mongodb,gcp,aws,git,github,vscode,pycharm,selenium&perline=10" />
 
 </div>
 
 ---
 
-# 💬 Developer Quote
+## 💼 Work Experience
 
-<div align="center">
+**🟣 Junior Software Developer** — Triaksha Automations `Sep 2025 – Present`
+Building PowerApps canvas apps, Dataverse-backed workflows, and enterprise governance tools.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Harshi115&style=for-the-badge&color=blueviolet"/>
-
-</div>
+**🔵 Software Development Intern** — CDAC Delhi `Jan – May 2025`
+Engineered "Siphra," a multilingual Python voice assistant.
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**QUICK AI Platform**](https://github.com/Harshi115/QUICK-AI-full-stack) | AI suite: article, image, resume & background tools |
+| [**VISTA**](https://github.com/Harshi115/VISTA) | Voice + image search with 5-language translation |
+| [**Movie Recommender**](https://github.com/Harshi115/movie-recommendation-system) | Cosine similarity recommendation engine |
+| [**Photobooth**](https://github.com/Harshi115/photobooth) | Fun browser-based photobooth with live filters |
+
+---
+
+## 📜 Certifications
+
+- ☁️ AWS Solutions Architecture Job Simulation — Amazon Web Services
+- 🤖 GenAI Job Simulation — Boston Consulting Group
+- 💻 Software Engineering Job Simulation — J.P. Morgan Chase & Co.
+
+<br/>
+
 <div align="center">
 
-## 💜 Thanks for Visiting My Profile
+### 🌈 Let's build something amazing together
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+awesome+together!;Happy+Coding!+💜"/>
+<a href="https://linkedin.com/in/harshita-chaturvedi-5522722b6">
+<img src="https://img.shields.io/badge/Open_to_Opportunities-Let's_Connect-a855f7?style=for-the-badge&labelColor=1e1b4b"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=6,12,20,24"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtuOGtuNW9oN2c5d3k1eXQyd2s1YW9odWJhMzE5eXEzOGQybmF5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ec5RmyukcFnlQrtFeO/giphy.gif" width="200"/>
+
+<br/>
+
+*⭐ Found my work interesting? A star motivates me to build more ⭐*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:a855f7,60:ec4899,100:6366f1&height=120&section=footer" width="100%"/>
 
 </div>
