@@ -27,7 +27,9 @@
 
 ## 🌸 About Me
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc4azQweDBtajdqbTZjODJ1YWUyYnd6aXFtejduMHJ4bWVpcnpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260" style="border-radius:12px"/>
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ```yaml
 name: Harshita Chaturvedi
@@ -41,7 +43,12 @@ fun_fact: I turn ideas into shipped, cloud-deployed products ✨
 
 I build **full-stack products end-to-end** — from pixel-perfect, animated frontends to cloud-deployed backends and CMS-driven architectures. My work spans a multilingual voice assistant, AI-powered productivity tools, and enterprise Power Platform apps used by real teams every day.
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc4azQweDBtajdqbTZjODJ1YWUyYnd6aXFtejduMHJ4bWVpcnpxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="220" style="border-radius:12px"/>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3&width=100%"/>
 
@@ -145,17 +152,21 @@ Fun, browser-based photobooth with live filters and effects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshi115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshi115&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshi115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshi115&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a855f7&line=ec4899&point=06b6d4" width="97%"/>
+<img src="https://streak-stats.demolab.com/?user=Harshi115&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=ec4899&currStreakLabel=a855f7&sideLabels=c9d1d9&sideNums=c9d1d9&dates=6b7280" width="97%"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshi115&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="97%"/>
+
+</div>
+
+<div align="center">
+<sub>📌 If any stat card above shows a broken image, it's usually a temporary rate-limit on the free widget API — refreshing the page after a few minutes fixes it.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:a855f7,100:ec4899&height=3&width=100%"/>
